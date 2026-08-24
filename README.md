@@ -1,7 +1,7 @@
 # All About Me (Currently Under Construction) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=121212)](http://www.linkedin.com/in/matthewnewbould)
 
 <!-- INTRODUCTORY TEXT PLACEHOLDER -->
-> Software & Platform Engineer
+Hi there! I am Software & Platform Engineer currently closing in on the end of the Makers Academy Software Engineering Course looking to launch headlong into a new career focusing on technical development and effective software development/system architecture management. I care about quality results, fitting in with teams, and enjoying working on meaningful projects in a positive environment. I'm eager to adapt, learn, build and achieve.
 
 ---
 
@@ -26,34 +26,21 @@
 | Project | Description | Tech Stack | Status | Demo | Repo |
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **project** |  |  | `Production` | [Demo](https://example.com) | [Github](https://github.com) |
-| **MakersBnB** | Airbnb inspired group project. Users can list and book properties using an interactive calendar booking system as well as view their own bookings and listing bookings. Signup and login functionality included. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)| `Completed` | Repo Only | [Github](https://github.com/tsukuyomji/Makersbnb-team-project) |
+| **MakersBnB** | Airbnb inspired group project. Users can list and book properties using an interactive calendar booking system as well as view their own bookings and listing bookings. Signup and login functionality included. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)| `Completed` | Repo Only | [Github](https://github.com/tsukuyomji/Makersbnb-team-project) |
 
 ---
 
-### Skills & Hobbies
+### Skills, Hobbies and Continuous Development 
 
 #### Core Competencies
 * **Software Development:** [Placeholder: e.g., REST APIs, Object-Oriented Design, Microservices]
 * **DevOps & Infrastructure:** [Placeholder: e.g., CI/CD Pipelines, Infrastructure as Code, Containerization]
 
 #### When I'm Not Coding
-*  **Offline Mode:** [Placeholder: e.g., Sports]
-<!--
-**MattsL4b/MattsL4b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love swimming, skiing, painting, hiking and diving to name a just a few activities! Learning is my Jam and I'm always at it. Whether that's watching a scientific or historical video, lunchtime quizzes, reading about every capital city in the world or even just teaching myself how to solve a Rubik's Cube or how to use a chefs knife properly in the kitchen to make cooking more interesting. I have a particular desire to learn piano and a second language so that's up next.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-temporary icon list
+# Temporary icon list
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=121212" />

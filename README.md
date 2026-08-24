@@ -30,9 +30,9 @@ Hi there! I am Software & Platform Engineer currently closing in on the end of t
 
 ---
 
-### Skills, Hobbies and Continuous Development 
+### Continuous Development and Hobbies
 
-#### Core Competencies
+#### Current Technical Development
 * **Software Development:** [Placeholder: e.g., REST APIs, Object-Oriented Design, Microservices]
 * **DevOps & Infrastructure:** [Placeholder: e.g., CI/CD Pipelines, Infrastructure as Code, Containerization]
 

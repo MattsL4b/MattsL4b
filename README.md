@@ -1,7 +1,7 @@
 # All About Me (Currently Under Construction) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=121212)](http://www.linkedin.com/in/matthewnewbould)
 
 <!-- INTRODUCTORY TEXT PLACEHOLDER -->
-Hi there! I am Software & Platform Engineer currently closing in on the end of the Makers Academy Software Engineering Course looking to launch headlong into a new career focusing on technical development and effective software development/system architecture management. I care about quality results, fitting in with teams, and enjoying working on meaningful projects in a positive environment. I'm eager to adapt, learn, build and achieve.
+Hi there! I am Software & Platform Engineer currently closing in on the end of the Makers Academy Software Engineering Course looking to launch headlong into a new career focusing on technical development and effective software development/system architecture management. I care about quality results, fitting in with teams, and enjoying working on meaningful projects in a positive environment. I'm eager to adapt, learn, build and achieve. <br /> <p align="center"> Email: min.97@outlook.com | +447463903007
 
 ---
 

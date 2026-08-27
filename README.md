@@ -39,7 +39,7 @@ Hi there! I am Software & Platform Engineer currently closing in on the end of t
 #### When I'm Not Coding
 I love swimming, skiing, painting, hiking and diving to name a just a few activities! Learning is my Jam and I'm always at it. Whether that's watching a scientific or historical video, lunchtime quizzes, reading about every capital city in the world or even just teaching myself how to solve a Rubik's Cube or how to use a chefs knife properly in the kitchen to make cooking more interesting. I have a particular desire to learn piano and a second language so that's up next.
 
-
+<!--
 # Temporary icon list
 
 <p align="center">
@@ -47,13 +47,13 @@ I love swimming, skiing, painting, hiking and diving to name a just a few activi
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=121212" />
 </p>
 
-<!-- Dark Left + Purple Icon + Official Purple Text Box -->
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=844FBA&labelColor=121212)
-<!-- Dark Left (Logo) + Official Purple Right (Text) -->
+
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white&labelColor=121212)
-<!-- Dark Left Box + Official Purple Right Box -->
+
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white&logoBackgroundColor=121212)
-<!-- Dark Background + Official Purple Logo -->
+
 ![Terraform](https://img.shields.io/badge/Terraform-121212?style=for-the-badge&logo=terraform&logoColor=844FBA)
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+-->

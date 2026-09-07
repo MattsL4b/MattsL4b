@@ -25,7 +25,6 @@ Hi there! I am Software & Platform Engineer currently closing in on the end of t
 
 | Project | Description | Tech Stack | Status | Demo | Repo |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **project** |  |  | `Production` | [Demo](https://example.com) | [Github](https://github.com) |
 | **MakersBnB** | Airbnb inspired group project. Users can list and book properties using an interactive calendar booking system as well as view their own bookings and listing bookings. Signup and login functionality included. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)| `Completed` | Repo Only | [Github](https://github.com/tsukuyomji/Makersbnb-team-project) |
 
 ---
@@ -33,8 +32,13 @@ Hi there! I am Software & Platform Engineer currently closing in on the end of t
 ### Continuous Development and Hobbies
 
 #### Current Technical Development
-* **Software Development:** [Placeholder: e.g., REST APIs, Object-Oriented Design, Microservices]
-* **DevOps & Infrastructure:** [Placeholder: e.g., CI/CD Pipelines, Infrastructure as Code, Containerization]
+
+* Personal Solo Project: learning the basic fundamentals of JavaScript and Typescript in order to begin engineering a serverless 
+  developer documentation platform using Astro and hosted on Cloudflare Pages. 
+* Continued familiarisation with software development and DevOps systems using Microsoft Windows 
+  including Windows Subsystem for Linux (WSL2). - - 
+* Deepening python skills on current projects and educational exercises. 
+* Investigating the foundations of Golang for a future personal project. 
 
 #### When I'm Not Coding
 I love swimming, skiing, painting, hiking and diving to name a just a few activities! Learning is my Jam and I'm always at it. Whether that's watching a scientific or historical video, lunchtime quizzes, reading about every capital city in the world or even just teaching myself how to solve a Rubik's Cube or how to use a chefs knife properly in the kitchen to make cooking more interesting. I have a particular desire to learn piano and a second language so that's up next.

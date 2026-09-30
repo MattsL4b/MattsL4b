@@ -37,7 +37,7 @@ Hi there! I am Software & Platform Engineer currently closing in on the end of t
 * Personal Solo Project: learning the basic fundamentals of JavaScript and Typescript in order to begin engineering a serverless 
   developer documentation platform using Astro and hosted on Cloudflare Pages. 
 * Continued familiarisation with software development and DevOps systems using Microsoft Windows 
-  including Windows Subsystem for Linux (WSL2). - - 
+  including Windows Subsystem for Linux (WSL2).
 * Deepening python skills on current projects and educational exercises. 
 * Investigating the foundations of Golang for a future personal project. 
 
